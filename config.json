@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvalidate",
+        "uuid": 12853664,
+        "checksum": "wma3vh"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
